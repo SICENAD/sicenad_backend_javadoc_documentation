@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"es.mde.entidades"},{"l":"es.mde.models"},{"l":"es.mde.repositorios"},{"l":"es.mde.rest"},{"l":"es.mde.servicios"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"es.mde.entidades"},{"l":"es.mde.models"},{"l":"es.mde.notificaciones"},{"l":"es.mde.repositorios"},{"l":"es.mde.rest"},{"l":"es.mde.servicios"}]
